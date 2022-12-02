@@ -12,7 +12,6 @@
 		0776B5372938BBDD00CBC77A /* SwitchViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0776B5362938BBDD00CBC77A /* SwitchViewManager.swift */; };
 		079000BD2939D52500DB5FDC /* SwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079000BC2939D52500DB5FDC /* SwitchView.swift */; };
 		079000BF2939D77600DB5FDC /* SwitchViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 079000BE2939D77600DB5FDC /* SwitchViewManager.m */; };
-		079114562939DD2B00AB901A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079114552939DD2B00AB901A /* ViewController.swift */; };
 		0C80B921A6F3F58F76C31292 /* libPods-rn_native_modules.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-rn_native_modules.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -40,7 +39,6 @@
 		0776B5362938BBDD00CBC77A /* SwitchViewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchViewManager.swift; sourceTree = "<group>"; };
 		079000BC2939D52500DB5FDC /* SwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchView.swift; sourceTree = "<group>"; };
 		079000BE2939D77600DB5FDC /* SwitchViewManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwitchViewManager.m; sourceTree = "<group>"; };
-		079114552939DD2B00AB901A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* rn_native_modules.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rn_native_modules.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rn_native_modules/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = rn_native_modules/AppDelegate.mm; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 				0776B5362938BBDD00CBC77A /* SwitchViewManager.swift */,
 				079000BC2939D52500DB5FDC /* SwitchView.swift */,
 				079000BE2939D77600DB5FDC /* SwitchViewManager.m */,
-				079114552939DD2B00AB901A /* ViewController.swift */,
 			);
 			name = custom_switch;
 			sourceTree = "<group>";
@@ -438,7 +435,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				079114562939DD2B00AB901A /* ViewController.swift in Sources */,
 				0776B5372938BBDD00CBC77A /* SwitchViewManager.swift in Sources */,
 				079000BF2939D77600DB5FDC /* SwitchViewManager.m in Sources */,
 				079000BD2939D52500DB5FDC /* SwitchView.swift in Sources */,
